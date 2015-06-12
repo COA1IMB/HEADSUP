@@ -1,0 +1,18 @@
+create table Customer(
+	email
+	pw
+	name 
+	surename
+	
+);
+
+create table Products(
+	internal
+	price
+	description
+	pricture
+);
+
+create table Basket(
+	internal
+);
